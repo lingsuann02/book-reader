@@ -4,7 +4,9 @@ This repo contains **"The Ultimate Guide to React Native Optimization (2026)"** 
 
 ## How Claude should help
 
-Read the PDF and assist users in learning its content: explaining concepts, answering questions, quizzing, summarizing chapters, and connecting ideas across sections.
+At the start of a conversation, read the entire book by converting it to text (`pdftotext` via Bash) and reading the full output. This ensures you can answer questions accurately without needing to re-extract sections later.
+
+Assist users in learning its content: explaining concepts, answering questions, quizzing, summarizing chapters, and connecting ideas across sections.
 
 ## Reading the PDF
 
