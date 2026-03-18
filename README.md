@@ -1,6 +1,6 @@
 # Callstack Performance
 
-This repository contains PDF content related to callstack performance.
+This repository contains PDF content related to react native performance.
 
 ## Get Started
 
